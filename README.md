@@ -1,7 +1,7 @@
 # Vuex-And-Vue-router-Tabs
 A Simple Vuex And Vue-router Based Example   
    
-It will show how to use Vuex to store and keep states while Vue-router routing.   
+This is just a Hello World example for Vuex And Vue-router, and it will show how to use Vuex to store and keep states while Vue-router routing.   
 
 ##Usage
 ```
